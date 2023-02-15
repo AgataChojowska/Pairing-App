@@ -1,2 +1,0 @@
-# Pairing App
-Agata Chojowska
